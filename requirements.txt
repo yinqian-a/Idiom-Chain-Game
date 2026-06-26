@@ -1,0 +1,7 @@
+paddlepaddle==2.6.2
+paddleocr==2.8.1
+pyautogui>=0.9.54
+pillow>=10.0.0
+pyserial>=3.5
+opencv-python-headless==4.5.5.64
+numpy<2.0
